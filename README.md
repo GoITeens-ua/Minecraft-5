@@ -247,7 +247,7 @@
 
 > **y3 = y1**, так як підлогу ми залишаємо з того ж матеріалу, що і був до встановлення блоків.
 
-![](<.gitbook/assets/image (4).png>)![](.gitbook/assets/block-fly.gif)
+![](<.gitbook/assets/image (4) (1).png>)![](.gitbook/assets/block-fly.gif)
 
 ### Куб порожній всередині
 
